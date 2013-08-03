@@ -6,3 +6,4 @@ commit for dummy1
 commit for dummy2
 
 commit for amending
+
